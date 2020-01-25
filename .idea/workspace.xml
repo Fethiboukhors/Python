@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac789869-3833-48b1-926f-6244d8c83094" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WepX6JlmbDVPQP9xgjMWVuO1vh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/PyFiles" />
+  </component>
+  <component name="RunManager" selected="Python.exceptions tutorial">
+    <configuration name="exceptions tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exceptions tutorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="files tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files tutorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="for loop tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for loop tutorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="functions tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions tutorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loop controle tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop controle tutorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tutorial" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exceptions tutorial" />
+        <item itemvalue="Python.files tutorial" />
+        <item itemvalue="Python.functions tutorial" />
+        <item itemvalue="Python.loop controle tutorial" />
+        <item itemvalue="Python.for loop tutorial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac789869-3833-48b1-926f-6244d8c83094" name="Default Changelist" comment="" />
+      <created>1579519951271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579519951271</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="44" y="0" key="#Age_Calculator" timestamp="1579959986362">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="44" y="0" key="#Age_Calculator/0.0.1280.680@0.0.1280.680" timestamp="1579959986362" />
+    <state x="412" y="144" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579527528817">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1579527528817" />
+    <state x="341" y="83" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579967155481">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="341" y="83" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1579967155481" />
+    <state x="36" y="0" key="#tutorial" timestamp="1579960037342">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="36" y="0" key="#tutorial/0.0.1280.680@0.0.1280.680" timestamp="1579960037342" />
+    <state x="207" y="49" key="FileChooserDialogImpl" timestamp="1579970006679">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="207" y="49" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579970006679" />
+    <state width="1082" height="149" key="GridCell.Tab.0.bottom" timestamp="1579967467929">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1082" height="149" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579967467929" />
+    <state width="1082" height="149" key="GridCell.Tab.0.center" timestamp="1579967467929">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1082" height="149" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579967467929" />
+    <state width="1082" height="149" key="GridCell.Tab.0.left" timestamp="1579967467929">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1082" height="149" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579967467929" />
+    <state width="1082" height="149" key="GridCell.Tab.0.right" timestamp="1579967467929">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1082" height="149" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579967467929" />
+    <state width="1082" height="185" key="GridCell.Tab.1.bottom" timestamp="1579963680918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1082" height="185" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579963680918" />
+    <state width="1082" height="185" key="GridCell.Tab.1.center" timestamp="1579963680918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1082" height="185" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1579963680918" />
+    <state width="1082" height="185" key="GridCell.Tab.1.left" timestamp="1579963680918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1082" height="185" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1579963680918" />
+    <state width="1082" height="185" key="GridCell.Tab.1.right" timestamp="1579963680918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1082" height="185" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1579963680918" />
+    <state x="151" y="115" width="918" height="440" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579967171236">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="151" y="115" width="918" height="440" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1579967171236" />
+    <state x="341" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1579519975141">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="341" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1579519975141" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1579780523136">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579780523136" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/conditions tutorial.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loops while tutorial.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+from tkinter import *
+from tkinter import ttk
+
+root=Tk()
+bu1=ttk.Button(root, text=1)
+bu1.grid(row=0, column=0, stick='snew', ipadx=40, ipady=40)
+bu1.config(command=lambda : BuClick(1))
+
+
+def BuClick(x):
+    print("x:{}".format(x))
+
+
+
+
+
+root.mainloop()
